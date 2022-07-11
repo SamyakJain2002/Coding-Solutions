@@ -13,6 +13,8 @@ class Solution {
 	    int n = matrix.size();
 	    for(int i=0;i<n;i++){
 	        for(int j =0;j<n;j++){
+	            if(j == i)
+	            continue;
 	            for(int k=0;k<n;k++){
 	                if((matrix[j][k]==-1 || matrix[j][k] > matrix[j][i] + matrix[i][k]) && matrix[j][i]!= -1 && matrix[i][k]!=-1){
 	                    matrix[j][k] = matrix[j][i] + matrix[i][k];
