@@ -16,6 +16,8 @@ class Solution {
 	            if(j == i)
 	            continue;
 	            for(int k=0;k<n;k++){
+	                if(k == j)
+	                continue;
 	                if((matrix[j][k]==-1 || matrix[j][k] > matrix[j][i] + matrix[i][k]) && matrix[j][i]!= -1 && matrix[i][k]!=-1){
 	                    matrix[j][k] = matrix[j][i] + matrix[i][k];
 	                }
