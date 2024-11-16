@@ -6,11 +6,13 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
