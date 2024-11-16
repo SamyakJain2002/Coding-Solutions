@@ -7,6 +7,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
 ## Hash Table
@@ -17,6 +18,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -58,4 +60,8 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
