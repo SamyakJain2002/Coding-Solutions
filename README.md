@@ -9,12 +9,14 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0001-two-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
+| [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -67,4 +69,8 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
