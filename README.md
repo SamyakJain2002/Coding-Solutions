@@ -70,6 +70,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Union Find
 |  |
@@ -86,6 +87,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0908-middle-of-the-linked-list) |
