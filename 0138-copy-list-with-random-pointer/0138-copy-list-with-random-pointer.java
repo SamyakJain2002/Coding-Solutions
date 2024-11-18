@@ -18,27 +18,43 @@ class Solution {
         if(head == null){
             return null;
         }
+        HashMap<Node,List<Node>> mp = new HashMap<Node, List<Node>>();
         Node temp = head;
-        while(temp != null){
-            Node newNode = new Node(temp.val);
-            newNode.next = temp.next;
-            temp.next = newNode;
-            temp = newNode.next;
-        }
-        Node head2 = head.next;
-        temp = head;
-        while(temp!=null){
-            if(temp.random !=null){
-                temp.next.random = temp.random.next;
+        Node head2 = new Node(head.val);
+        Node temp2 = head2;
+        if(temp.random != null)
+        mp.put(temp.random, new ArrayList<Node>(Arrays.asList(temp2)));
+        while(temp.next != null){
+            temp = temp.next;
+            temp2.next = new Node(temp.val);
+            temp2 = temp2.next;
+            if(mp.containsKey(temp)){
+                List<Node> arr = mp.get(temp);
+                for(Node i: arr){
+                    i.random = temp2;
+                }
+                mp.remove(temp);
             }
-            temp = temp.next.next;
+            if(temp.random != null){
+                if(mp.containsKey(temp.random)){
+                    mp.get(temp.random).add(temp2);
+                }else{
+                    mp.put(temp.random, new ArrayList<Node>(Arrays.asList(temp2)));
+                }
+                
+            }
+           
         }
-
         temp = head;
-        Node temp2 = new Node(-1);
+        temp2 = head2;
         while(temp!=null){
-            temp2.next = temp.next;
-            temp.next = temp.next.next;
+            if(mp.containsKey(temp)){
+                List<Node> arr = mp.get(temp);
+                for(Node i: arr){
+                    i.random = temp2;
+                }
+                mp.remove(temp);
+            }
             temp = temp.next;
             temp2 = temp2.next;
         }
