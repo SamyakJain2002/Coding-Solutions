@@ -9,6 +9,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0001-two-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
@@ -78,6 +79,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0141-linked-list-cycle) |
