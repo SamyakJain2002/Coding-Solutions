@@ -13,6 +13,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
