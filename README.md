@@ -45,6 +45,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0062-unique-paths) |
 ## Dynamic Programming
 |  |
@@ -130,6 +131,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0002-add-two-numbers](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
