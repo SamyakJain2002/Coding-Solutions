@@ -51,6 +51,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0062-unique-paths) |
+| [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Combinatorics
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0039-combination-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
