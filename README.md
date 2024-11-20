@@ -11,6 +11,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -146,6 +147,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
