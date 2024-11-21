@@ -10,6 +10,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0015-3sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0040-combination-sum-ii) |
@@ -65,6 +66,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
