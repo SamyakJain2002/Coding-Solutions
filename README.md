@@ -47,6 +47,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
 ## Counting
@@ -113,6 +114,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0142-linked-list-cycle-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Union Find
@@ -188,6 +190,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -198,4 +201,12 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
