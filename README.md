@@ -159,6 +159,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -204,9 +205,14 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
