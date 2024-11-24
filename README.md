@@ -18,6 +18,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -169,6 +170,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -178,6 +180,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
