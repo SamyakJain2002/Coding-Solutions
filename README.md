@@ -23,6 +23,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -138,6 +139,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Linked List
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -237,9 +240,14 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0460-lfu-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
