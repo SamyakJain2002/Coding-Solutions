@@ -43,6 +43,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
+| [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
+| [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0232-implement-queue-using-stacks](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
+| [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,6 +221,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0225-implement-stack-using-queues](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 ## Data Stream
 |  |
 | ------- |
