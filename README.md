@@ -180,12 +180,14 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0234-palindrome-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
 | [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
+| [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -235,10 +237,12 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0460-lfu-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0460-lfu-cache) |
 | [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
+| [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
