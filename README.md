@@ -142,6 +142,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0005-longest-palindromic-substring](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -271,4 +272,8 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1036-rotting-oranges) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
