@@ -3,22 +3,20 @@ class Solution {
         if(strs.length == 1){
             return strs[0];
         }
-        int n = strs.length;
+        Arrays.sort(strs);
+        int n = strs.length-1;
         int idx = 0;
         int i = 0;
         String ans = "";
         char c = ' ';
-        while(idx < strs[i].length()){
-            if(i == 0){
-                c = strs[i].charAt(idx);
-            } else if(c != strs[i].charAt(idx)){
+        while(idx < strs[i].length() && idx<strs[n].length()){
+            c = strs[i].charAt(idx);
+            if(c != strs[n].charAt(idx)){
                 return ans;
-            } 
-            if(i == n-1){
+            } else{
                 ans = ans + c;
-                idx++;
             }
-            i = (i+1)%n;
+            idx++;
         }
         return ans;
     }
