@@ -121,6 +121,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0061-rotate-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -136,6 +137,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
