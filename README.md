@@ -36,6 +36,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0001-two-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -67,6 +68,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0062-unique-paths) |
 ## Dynamic Programming
@@ -138,6 +140,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
