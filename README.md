@@ -45,6 +45,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0146-lru-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
@@ -56,6 +57,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0018-4sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
@@ -148,6 +150,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0686-repeated-string-match) |
 ## Sliding Window
 |  |
