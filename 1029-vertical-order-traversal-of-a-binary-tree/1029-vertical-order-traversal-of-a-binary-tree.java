@@ -19,7 +19,7 @@ class Solution {
             return new ArrayList<>();
         }
         List<List<Integer>> ans = new ArrayList<>();
-        Map<Integer, Map<Integer, Map<Integer, Integer>>> mp = new TreeMap<>();
+        Map<Integer, Map<Integer, PriorityQueue<Integer>>> mp = new TreeMap<>();
         Queue<Pair<TreeNode, Pair<Integer, Integer>>> q = new LinkedList<>();
         q.add(new Pair(root, new Pair(0, 0)));
 
@@ -28,8 +28,8 @@ class Solution {
             root = currroot.getKey();
             int hd = currroot.getValue().getKey();
             int level = currroot.getValue().getValue();
-            mp.computeIfAbsent(hd, k -> new TreeMap<>()).computeIfAbsent(level, k -> new TreeMap<>()).merge(root.val, 1,
-                    Integer::sum);
+            mp.computeIfAbsent(hd, k -> new TreeMap<>()).computeIfAbsent(level, k -> new PriorityQueue<>())
+                    .add(root.val);
             if (root.left != null) {
                 q.add(new Pair(root.left, new Pair(hd - 1, level + 1)));
             }
@@ -38,17 +38,13 @@ class Solution {
             }
         }
 
-        for (Map.Entry<Integer, Map<Integer, Map<Integer, Integer>>> outerEntry : mp.entrySet()) {
-            Map<Integer, Map<Integer, Integer>> innerMap = outerEntry.getValue();
+        for (Map.Entry<Integer, Map<Integer, PriorityQueue<Integer>>> outerEntry : mp.entrySet()) {
+            Map<Integer, PriorityQueue<Integer>> innerMap = outerEntry.getValue();
             List<Integer> a1 = new ArrayList<>();
-            for (Map.Entry<Integer, Map<Integer, Integer>> innerEntry : innerMap.entrySet()) {
-                Map<Integer, Integer> value = innerEntry.getValue();
-                for(Map.Entry<Integer,Integer> finalMap : value.entrySet()){
-                    int v = finalMap.getValue();
-                    int k = finalMap.getKey();
-                    for(int i=1;i<=v;i++){
-                        a1.add(k);
-                    }
+            for (Map.Entry<Integer, PriorityQueue<Integer>> innerEntry : innerMap.entrySet()) {
+                PriorityQueue<Integer> v = innerEntry.getValue();
+                while (!v.isEmpty()) {
+                    a1.add(v.poll());
                 }
             }
             ans.add(a1);
