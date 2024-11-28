@@ -25,6 +25,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +85,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0062-unique-paths](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
