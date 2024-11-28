@@ -21,6 +21,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0084-largest-rectangle-in-histogram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0239-sliding-window-maximum) |
@@ -82,6 +83,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Combinatorics
 |  |
 | ------- |
