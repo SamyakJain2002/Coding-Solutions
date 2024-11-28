@@ -83,6 +83,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0005-longest-palindromic-substring](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -158,6 +159,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0020-valid-parentheses](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0165-compare-version-numbers) |
