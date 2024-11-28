@@ -86,6 +86,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0165-compare-version-numbers](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0686-repeated-string-match) |
+| [1250-longest-common-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
