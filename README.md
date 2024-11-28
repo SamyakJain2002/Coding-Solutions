@@ -18,6 +18,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0005-longest-palindromic-substring](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -243,6 +245,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1036-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
