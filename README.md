@@ -36,6 +36,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1036-rotting-oranges) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0322-coin-change](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Combinatorics
 |  |
 | ------- |
