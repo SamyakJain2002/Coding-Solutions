@@ -22,6 +22,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0084-largest-rectangle-in-histogram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
@@ -46,6 +47,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0037-sudoku-solver](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0146-lru-cache) |
@@ -91,6 +93,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0064-minimum-path-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0322-coin-change) |
@@ -170,6 +173,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0038-count-and-say](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0242-valid-anagram) |
@@ -316,6 +320,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -364,4 +369,8 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
