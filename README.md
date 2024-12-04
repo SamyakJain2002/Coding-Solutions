@@ -40,6 +40,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
@@ -240,6 +241,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
 | [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0084-largest-rectangle-in-histogram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -364,6 +367,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -404,6 +408,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -416,4 +421,5 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
