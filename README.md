@@ -191,6 +191,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0151-reverse-words-in-a-string](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0686-repeated-string-match) |
 | [1250-longest-common-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
@@ -303,6 +304,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0225-implement-stack-using-queues](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0460-lfu-cache) |
 | [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
@@ -336,6 +338,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0133-clone-graph) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -374,6 +377,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -398,6 +402,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -426,6 +431,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
