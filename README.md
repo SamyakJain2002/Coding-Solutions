@@ -64,6 +64,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0460-lfu-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -166,6 +167,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0234-palindrome-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Union Find
 |  |
@@ -332,6 +334,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0322-coin-change) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1036-rotting-oranges) |
@@ -368,6 +371,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -390,6 +394,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -415,6 +420,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -433,5 +439,6 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
