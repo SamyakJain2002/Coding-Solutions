@@ -108,6 +108,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0322-coin-change](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Combinatorics
 |  |
@@ -378,6 +379,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,6 +431,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -446,6 +450,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
