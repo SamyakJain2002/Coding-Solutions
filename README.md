@@ -286,6 +286,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0239-sliding-window-maximum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
@@ -306,12 +307,14 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0460-lfu-cache) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -381,6 +384,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -435,6 +439,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0543-diameter-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -455,6 +460,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
