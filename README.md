@@ -34,6 +34,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0322-coin-change](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0493-reverse-pairs) |
@@ -64,6 +65,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0229-majority-element-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -276,6 +278,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -359,6 +362,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0014-longest-common-prefix](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String Matching
 |  |
 | ------- |
