@@ -44,6 +44,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [1036-rotting-oranges](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +280,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | ------- |
 | [0090-subsets-ii](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0090-subsets-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Matrix
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0139-word-break](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## String Matching
 |  |
 | ------- |
