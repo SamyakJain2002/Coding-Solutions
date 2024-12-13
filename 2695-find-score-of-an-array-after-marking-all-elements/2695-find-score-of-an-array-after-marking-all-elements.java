@@ -1,28 +1,39 @@
 class Solution {
     public long findScore(int[] nums) {
-        PriorityQueue<Pair<Integer, Integer>> pq = new PriorityQueue<>((a, b) -> a.getKey() - b.getKey()!=0 ? a.getKey() - b.getKey() : a.getValue()-b.getValue());
+        long score = 0; // Use long to avoid overflow
+        int n = nums.length;
+        Deque<Integer> q = new LinkedList<>();
 
-        for (int i = 0; i < nums.length; i++) {
-            pq.add(new Pair(nums[i], i));
-        }
-        long sum = 0;
-
-        while (!pq.isEmpty()) {
-            Pair<Integer, Integer> e = pq.remove();
-            int idx = e.getValue();
-            int val = e.getKey();
-            if (nums[idx] == 0) {
+        // Traverse through the array
+        for (int i = 0; i < n; i++) {
+            // If queue is not empty and the current number is greater than or equal to the last in queue
+            if (!q.isEmpty() && nums[i] >= q.peekLast()) {
+                boolean skip = false;
+                // Process the elements in the queue
+                while (!q.isEmpty()) {
+                    int add = q.pollLast();
+                    if (!skip) {
+                        score += add;
+                    }
+                    skip = !skip;
+                }
                 continue;
             }
-            sum += nums[idx];
-            nums[idx] = 0;
-            if (idx - 1 >= 0) {
-                nums[idx - 1] = 0;
-            }
-            if (idx + 1 < nums.length) {
-                nums[idx + 1] = 0;
-            }
+
+            // Add current element to the queue
+            q.addLast(nums[i]);
         }
-        return sum;
+
+        // Final processing of remaining elements in the queue
+        boolean skip = false;
+        while (!q.isEmpty()) {
+            int add = q.pollLast();
+            if (!skip) {
+                score += add;
+            }
+            skip = !skip;
+        }
+
+        return score;
     }
 }
