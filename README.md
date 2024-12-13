@@ -45,6 +45,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0931-maximum-frequency-stack](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0455-assign-cookies](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +299,7 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 | [0295-find-median-from-data-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -482,4 +486,8 @@ Collection of LeetCode and geeksforgeeks questions to ace the coding interview! 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SamyakJain2002/Coding-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
